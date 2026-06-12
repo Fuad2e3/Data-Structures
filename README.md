@@ -1,6 +1,19 @@
-# 🎓 Student Management System
+<div align="center">
+  <h1>🎓 Student Management System</h1>
+  <p>A Robust and Efficient Student Management System</p>
+</div>
 
-A robust and efficient Student Management System developed in C++, featuring a console-based interface with persistent storage using CSV files.
+<p align="center">
+  <img src="https://img.shields.io/badge/PLATFORM-WINDOWS-28cf7d?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
+  <img src="https://img.shields.io/badge/LANGUAGE-C%2B%2B-f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language">
+  <img src="https://img.shields.io/badge/STORAGE-CSV-ffb31a?style=for-the-badge&logo=csv&logoColor=white" alt="Storage">
+  <img src="https://img.shields.io/badge/COURSE-DATA_STRUCTURES-8a2be2?style=for-the-badge" alt="Course">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge" alt="License">
+</p>
+
+<p align="center">
+  <b>Empowering educational institutions with secure data management and persistent storage.</b>
+</p>
 
 ---
 
@@ -62,5 +75,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="center">
   Developed with ❤️ by <b>Team Softece</b><br>
-  <i>Data Structures & Algorithms | Green University of Bangladesh</i>
+  <i>Data Structures | Green University of Bangladesh</i>
 </p>
