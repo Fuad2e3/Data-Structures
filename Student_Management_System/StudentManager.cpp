@@ -469,7 +469,7 @@ void welcomePage() {
 
     cout << "\t\t\t\t\t\t" << setw(30) << left << "Green University Of Bangladesh" << endl;
     SetConsoleTextAttribute(hConsole, 11);
-    cout << "\t\t\t\t\t\t" << setw(18) << left << "Md. Nazmul Hossain" << endl;
+    cout << "\t\t\t\t\t\t" << setw(18) << left << "Fuad" << endl;
     SetConsoleTextAttribute(hConsole, 10);
     cout << endl << endl;
     signUp();
@@ -483,7 +483,7 @@ void heading(int h) {
         cout << "\t\t\t\t\tSTUDENT MANAGEMENT SYSTEM";
         cout << "\n\t\t\t\t\tStore Record by using C++";
         SetConsoleTextAttribute(hConsole, 12);
-        cout << "\n\t\t\t\t\t\t\t\tDeveloped by Nazmul";
+        cout << "\n\t\t\t\t\t\t\t\tDeveloped by Fuad";
         SetConsoleTextAttribute(hConsole, 9);
         cout << "\n\t\t\t\t---------------------------------------------------\n\n\n" << endl;
         return;
@@ -518,7 +518,7 @@ void aboutMe() {
     cout << "------------------------------" << endl;
 
     cout << "\n\t-------------------------------------------------------------------" << endl;
-    cout << "\n\t\tAbout Me Features is coming soon...\n\t\tTill day stay with us...\n\t\t\t\t\tThank You...\n\t\t\t\t\t\t\t Md. Nazmul Hossain" << endl;
+    cout << "\n\t\tAbout Me Features is coming soon...\n\t\tTill day stay with us...\n\t\t\t\t\tThank You...\n\t\t\t\t\t\t\t Fuad" << endl;
     cout << "\t--------------------------------------------------------------------" << endl;
 }
 
