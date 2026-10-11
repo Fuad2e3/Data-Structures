@@ -13,7 +13,7 @@
 
 ---
 
-[Explore Features](#-features) • [Project Structure](#-project-structure) • [How to Run](#-how-to-run) • [License](#-license)
+[Explore Features](#-features) • [Project Structure](#-project-structure) • [License](#-license)
 
 </div>
 
@@ -56,30 +56,11 @@ Data-Structures/
 
 ---
 
-## 💻 How to Run
-
-### 1. Prerequisites
-- MinGW / GCC C++ compiler installed on Windows.
-
-### 2. Compilation
-```bash
-g++ main.cpp StudentManager.cpp -o StudentSystem
-```
-
-### 3. Execution
-```bash
-./StudentSystem
-```
-
----
-
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Developed with ❤️ by Fuad**  
-*Developed by Softece*  
-*Data Structures | Green University of Bangladesh*
+**Developed ❤️ by Softece**
 
 </div>
